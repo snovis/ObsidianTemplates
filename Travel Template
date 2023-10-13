@@ -1,0 +1,52 @@
+---
+Aliases: []
+Author: Scott Novis
+Created: {{date}}
+Updated: 
+Version: 2.2
+Tags: [TravelCard]
+Comments: Trip to
+---
+%%
+How to Use This Template.
+This block between the double percentage signs `%` is a comment. And you can delete 
+this whole section once you know how to use it.  This is a very simple template
+with no Javascript code.  You can customize it anyway you want, but I have found it very
+useful to consolidate a lot of information - including links, pictures, and details
+so before I leave I'm prepared.
+
+Where do I store travel cards?  In the folder that makes the most sense. It can be
+a project folder, or an Area Folder.  You can use dataview to list every file 
+that has the tag TravelCard (you will probably want to exclude files that are in the 4 Ardchives folder.)
+%%
+
+# Trip To: {{title}}
+
+
+## Description
+
+
+## Dates:
+- LeaveOn:: 
+- ReturnOn:: 
+
+## Flight Details
+Airlines:
+- Email:
+
+## Hotel Details
+- Name and location
+
+
+## Rental Car / Transportation
+- name and location
+
+## Itinerary
+- where to start
+- key addresses
+
+## Notes
+- Important details
+
+## Resources / Links
+- 

@@ -9,6 +9,8 @@ How do use it.
 2. Then run the command: Run the command `Templater: Open Insert Template Modal` and pick this template.  This command will then use the file name to create a better alias, and it will use the name in other parts of the file.
 3. Replace the `sql` tag in the code block with `dataview` to cause the file list to work.
 
+I use this note style for Areas and Resources.  Projects have their own template.
+
 **Note**: How the end of this template runs up against the first `-` of the three hyphens that start front matter.  It has to be like this or the frontmatter won't work.
 
 **/

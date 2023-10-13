@@ -13,6 +13,6 @@ You will need at least two main plugins to get the most out of these.
 You can visit:
 https://scottnovis.com for articles and blog posts.
 You can also check out my youtube channel on:
-https://www.youtube.com/channel/UCSaJ3ofjprUms_h3F6ZiwAQ
+https://www.youtube.com/@ScottNovis
 and the basic vault installation video is here: 
 https://youtu.be/eKiWjWxOO6k

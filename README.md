@@ -10,3 +10,9 @@ You will need at least two main plugins to get the most out of these.
 1. Templater - a very powerful templating plugin that allows a template to execute javascript.
 2. Dataview - another very powerful plugin that allows you to treat your notes like a database.
 
+You can visit:
+https://scottnovis.com for articles and blog posts.
+You can also check out my youtube channel on:
+https://www.youtube.com/channel/UCSaJ3ofjprUms_h3F6ZiwAQ
+and the basic vault installation video is here: 
+https://youtu.be/eKiWjWxOO6k
